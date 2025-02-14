@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Beemer-2
-- 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some open-source projects
-- 😄 Pronouns: he/him
+# Hi, I am Beemer
+---
+- I’m interested in Python, JavaScript, game development, and web development.
+- I’m currently learning more advanced Flask features.
 
 <!---
 Beemer-2/Beemer-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
