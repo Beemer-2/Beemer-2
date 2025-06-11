@@ -1,4 +1,4 @@
-# Hi, I am Beemer
+# Hi, I am Brandon
 ---
 - I’m interested in Python, JavaScript, game development, and web development.
 - I’m currently learning more advanced Flask features.
