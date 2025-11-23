@@ -1,4 +1,4 @@
-# Hi, I am Brandon
+# Hi
 ---
 - I’m interested in Python, JavaScript, game development, and web development.
 - I’m currently learning more advanced Flask features.
